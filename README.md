@@ -1,4 +1,4 @@
-# Jogo da Velha em C
+# Calculadora simples em C
 
 Este repositório contém um programa desenvolvido em linguagem C com o objetivo de praticar estruturas de controle e lógica de programação por meio de um menu de operações matemáticas.
 
